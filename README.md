@@ -90,7 +90,7 @@ Credit-Card-Fraud-Detection/
 ├── tests/
 |  ├── train_model.py
 |
-├── tests/
+├── venv/
 |
 ├── creditcard.csv
 ├── requirements.txt
